@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mark
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS/React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
