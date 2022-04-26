@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mark
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS/React
-- 📫 How to reach me ...
+- 📫 How to reach me markgrace@stackerhq.com
 
 <!---
 mgrace71190/mgrace71190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
