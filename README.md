@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS/React
+- 🌱 I’m currently learning JS/TS/React
 - 📫 How to reach me markgrace@stackerhq.com
 
 <!---
